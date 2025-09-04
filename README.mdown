@@ -20,6 +20,7 @@ MarqueeLabel is compatible with both iOS and tvOS, and currently works with Swif
 4. Drop in MarqueeLabel as a replacement to your lengthy UILabels!
 5. Help out with bug fixes and new features.
 fyinformation.ccFist:fyinformation.cc#sbs.fyinformation.cc
+
 ### Installation
 #### [CocoaPods](http://cocoapods.org)
 
